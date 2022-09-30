@@ -57,6 +57,16 @@
         "brand":"Lenskart"
     },
     {
+        "id":"6",
+        "shape":"Half rim rectangle",
+        "frame":"plastic",
+        "colour of frame":"Purple",
+        "price range":"700-1000rs",
+        "brand":"Lenskart"
+
+
+    },
+    {
         "id":"7",
         "shape":"Eyewear",
         "frame":"plastic",
@@ -83,6 +93,7 @@
         "price range":"500-1000rs",
         "brand":"Lenskart"
     },
+
     {
         "id":"9",
         "shape":"Oval",
@@ -91,6 +102,18 @@
         "price range":"1000-3000rs",
         "brand":"Lensbazaar"
     }
+
+
+    
+    
+     {
+        "id":"9",
+        "shape":"Sqaure",
+        "frame":"Metal",
+        "colour of frame":"Silver",
+        "price range":"2000-3000rs",
+        "brand":"Lenskart"
+    },
 
 
 ]
