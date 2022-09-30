@@ -65,4 +65,12 @@
         "brand":"Lenskart"
 
     }
+     {
+        "id":"7",
+        "shape":"Eyeglasses",
+        "frame":"plastic",
+        "colour of frame":"blue",
+        "price range":"699rs",
+        "brand":"Titan"
+    },
 ]
