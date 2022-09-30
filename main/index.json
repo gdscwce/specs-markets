@@ -64,6 +64,18 @@
         "price range":"60-1000rs",
         "brand":"Lenskart"
 
+
+    }
+      {
+        "id":"18",
+        "shape":"Sunglasses",
+        "frame":"plastic",
+        "colour of frame":"black",
+        "price range":"600-1000rs",
+        "brand":"Lenskart"
+
+    }
+
     },
      {
         "id":"8",
@@ -73,4 +85,5 @@
         "price range":"500-1000rs",
         "brand":"Lenskart"
     },
+
 ]
