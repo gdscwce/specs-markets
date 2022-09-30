@@ -73,4 +73,14 @@
         "price range":"500-1000rs",
         "brand":"Lenskart"
     },
+    
+    
+     {
+        "id":"9",
+        "shape":"Sqaure",
+        "frame":"Metal",
+        "colour of frame":"Silver",
+        "price range":"2000-3000rs",
+        "brand":"Lenskart"
+    },
 ]
