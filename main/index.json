@@ -54,6 +54,7 @@
         "colour of frame":"black",
         "price range":"600-1000rs",
         "brand":"Lenskart"
+
     },
     {
         "id":"7",
@@ -72,4 +73,40 @@
         "price range":"500-1000rs",
         "brand":"Philips"
     },
+
+
+
+    }
+
+     {
+        "id":"7",
+        "shape":"Eyeglasses",
+        "frame":"plastic",
+        "colour of frame":"blue",
+        "price range":"699rs",
+        "brand":"Titan"
+    },
+
+      {
+        "id":"18",
+        "shape":"Sunglasses",
+        "frame":"plastic",
+        "colour of frame":"black",
+        "price range":"600-1000rs",
+        "brand":"Lenskart"
+
+    }
+
+    },
+     {
+        "id":"8",
+        "shape":"Sqaure",
+        "frame":"plastic",
+        "colour of frame":"white",
+        "price range":"500-1000rs",
+        "brand":"Lenskart"
+    },
+
+
+
 ]
