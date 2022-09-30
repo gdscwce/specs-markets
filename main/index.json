@@ -68,6 +68,16 @@
 
 
     }
+
+     {
+        "id":"7",
+        "shape":"Eyeglasses",
+        "frame":"plastic",
+        "colour of frame":"blue",
+        "price range":"699rs",
+        "brand":"Titan"
+    },
+
       {
         "id":"18",
         "shape":"Sunglasses",
@@ -87,5 +97,6 @@
         "price range":"500-1000rs",
         "brand":"Lenskart"
     },
+
 
 ]
