@@ -33,7 +33,6 @@
         "brand":"Lenskart"
     },
     {
-
         "id":"6",
         "shape":"Specs",
         "frame":"mettalic",
@@ -64,6 +63,16 @@
         "colour of frame":"blue",
         "price range":"60-1000rs",
         "brand":"Lenskart"
+
+    },
+    {
+        "id":"8",
+        "shape":"Drier",
+        "frame":"plastic",
+        "colour of frame":"Black",
+        "price range":"500-1000rs",
+        "brand":"Philips"
+    },
 
 
 
@@ -97,6 +106,7 @@
         "price range":"500-1000rs",
         "brand":"Lenskart"
     },
+
 
 
 ]
