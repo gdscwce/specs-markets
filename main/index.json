@@ -33,6 +33,7 @@
         "brand":"Lenskart"
     },
     {
+
         "id":"6",
         "shape":"Specs",
         "frame":"mettalic",
@@ -54,7 +55,6 @@
         "colour of frame":"black",
         "price range":"600-1000rs",
         "brand":"Lenskart"
-
     },
     {
         "id":"7",
@@ -64,29 +64,8 @@
         "price range":"60-1000rs",
         "brand":"Lenskart"
 
-    },
-    {
-        "id":"8",
-        "shape":"Drier",
-        "frame":"plastic",
-        "colour of frame":"Black",
-        "price range":"500-1000rs",
-        "brand":"Philips"
-    },
-
-
 
     }
-
-     {
-        "id":"7",
-        "shape":"Eyeglasses",
-        "frame":"plastic",
-        "colour of frame":"blue",
-        "price range":"699rs",
-        "brand":"Titan"
-    },
-
       {
         "id":"18",
         "shape":"Sunglasses",
@@ -94,8 +73,6 @@
         "colour of frame":"black",
         "price range":"600-1000rs",
         "brand":"Lenskart"
-
-    }
 
     },
      {
@@ -106,7 +83,14 @@
         "price range":"500-1000rs",
         "brand":"Lenskart"
     },
-
+    {
+        "id":"9",
+        "shape":"Oval",
+        "frame":"Glass with blue cut",
+        "colour of frame":"brown",
+        "price range":"1000-3000rs",
+        "brand":"Lensbazaar"
+    }
 
 
 ]
